@@ -1,0 +1,24 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "client.js",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "erela.js": "^1.1.7",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "opusscript": "0.0.7",
+    "superagent": "^5.2.2",
+    "urban": "^0.3.2",
+    "ytdl-core": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CS#1479",
+  "license": "ISC"
+}
